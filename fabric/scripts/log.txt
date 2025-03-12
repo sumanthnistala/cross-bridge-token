@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: token_1:07f3b452991c9a36a7d59af1a48acef4df22cffa3799c77e9cc9f9bafb92522f, Label: token_1
